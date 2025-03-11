@@ -4,8 +4,8 @@ Le projet est structuré en deux dossiers:
 
 > [!NOTE]
 >    
-> Frontend
+> - Frontend
 >    
-> Backend
+> - Backend
 
 N'hésitez pas à liker :+1:
