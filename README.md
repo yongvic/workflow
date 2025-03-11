@@ -2,5 +2,5 @@
 
 Le projet est structuré en deux dossiers:
     - Frontend
-    -
+    
     - Backend
